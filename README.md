@@ -1,5 +1,7 @@
 # Banking Application
 
+![image](https://github.com/user-attachments/assets/80966ca2-ea1d-4ab2-81e6-df5ef599c0fc)
+
 A simple Java console-based banking application with Object-Oriented Programming (OOP) principles.
 
 ## Overview
@@ -59,6 +61,7 @@ These classes inherit from the `Account` class and represent specific types of a
 
 ## Sample Output
 
--[# Check this File]()
+![Screenshot from 2025-06-26 12-30-57](https://github.com/user-attachments/assets/91c77108-7a64-4b93-acfd-b7c597a944c2)
+
 
 Feel free to explore and extend the application for additional features and improvements.
